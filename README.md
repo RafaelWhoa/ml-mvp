@@ -7,6 +7,9 @@ Aluno: Rafael Henrique da Costa
 RA: 4052025002012  
 Turma: 40530010056_20260_01  
 
+## Google Colab  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xNfA3sqnJB6ipBI-46IZrVOQhXCvHTI0?usp=sharing)
+
 ## 📋 Sobre o Projeto
 
 O objetivo é classificar grãos de feijão em sete variedades distintas — Barbunya, Bombay, Cali, Dermason, Horoz, Seker e Sira — com base em características morfológicas extraídas de imagens, como área, perímetro, comprimento dos eixos e fatores de forma, eliminando a necessidade de inspeção visual humana.
